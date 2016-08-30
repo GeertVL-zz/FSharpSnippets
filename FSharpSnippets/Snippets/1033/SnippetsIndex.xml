@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<SnippetCollection>
+  <Language Lang="F#" Guid="{bc6dd5a5-d4d6-4dab-a00d-a51242dbaf1b}">
+    <SnippetDir>
+      <OnOff>on</OnOff>
+      <Installed>true</Installed>
+      <Locale>1033</Locale>
+      <DirPath>Snippets\%LCID%\FSharp\</DirPath>
+      <LocalizedName>F#</LocalizedName>
+    </SnippetDir>
+  </Language>
+</SnippetCollection>
